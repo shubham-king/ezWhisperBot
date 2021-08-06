@@ -28,11 +28,11 @@ LEARN_TEXT = (
     "This bot works only in inline mode, a example use would be like "
     "this:\n\n"
     "- Write a whisper to @username\n"
-    "`@ezWhisperBot @username some text here`\n\n"
+    "`@AnimeWhisperbot @username some text here`\n\n"
     "- Write a whisper which anyone can read it multiple times\n"
-    "`@ezWhisperBot @ some text here`\n\n"
+    "`@AnimeWhisperbot @ some text here`\n\n"
     "- Whisper to the first one who open it (can also be used in PM)\n"
-    "`@ezWhisperBot some text here`"
+    "`@AnimeWhisperbot some text here`"
 )
 LEARN_REPLY_MARKUP = InlineKeyboardMarkup(
     [
@@ -48,9 +48,9 @@ LEARN_REPLY_MARKUP = InlineKeyboardMarkup(
 DEFAULT_TEXT = (
     "This bot allows you to send whisper messages, "
     "works only in inline mode\n\n"
-    "[Source Code](https://github.com/dashezup/ezWhisperBot)"
-    " | [Developer](https://t.me/dashezup)"
-    " | [Support Chat](https://t.me/ezupdev)"
+    "[Updates](https://t.me/RobotTech_officail)"
+    " | [Developer](https://t.me/RobotTech_memeber)"
+    " | [Support Chat](https://t.me/RobotTech_chat)"
 )
 DEFAULT_REPLY_MARKUP = InlineKeyboardMarkup(
     [
